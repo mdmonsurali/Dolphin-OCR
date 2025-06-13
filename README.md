@@ -21,9 +21,13 @@ A powerful and intuitive Streamlit app that leverages [ByteDance's Dolphin](http
 ```bash
 conda create -n dolphin python=3.10
 conda activate dolphin
+```
 
 ### 2. Clone the Repository
 
 ```bash
 git clone git@github.com:mdmonsurali/Dolphin-OCR.git
 cd Dolphin-OCR
+```
+
+### 3. Install Python Dependencies
