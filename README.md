@@ -90,7 +90,7 @@ Open your browser and go to: [http://localhost:8501](http://localhost:8501)
 
 Behind the scenes, the app uses:
 - [pdf2image](https://pypi.org/project/pdf2image/) to convert PDFs
-- [LibreOffice](https://www.libreoffice.org/) to convert DOCX to PDF
+- [LibreOffice](https://www.libreoffice.org/) to convert DOCX to PDF.(Future works)
 - [ByteDance Dolphin](https://github.com/bytedance/Dolphin) for document understanding
 - [Streamlit](https://streamlit.io/) for the UI
 
