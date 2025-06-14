@@ -86,7 +86,7 @@ Open your browser and go to: [http://localhost:8501](http://localhost:8501)
 
 1. Upload an image, PDF, or DOCX file in the sidebar  
 2. Click **"Extract Text 📄"**  
-3. Preview the document and download outputs in Markdown, JSON, or DOCX
+3. Preview the document and download outputs in Markdown, JSON, or DOCX(Figure, image, table display as it's original format)
 
 Behind the scenes, the app uses:
 - [pdf2image](https://pypi.org/project/pdf2image/) to convert PDFs
@@ -142,5 +142,5 @@ Made with ❤️ by **Md Monsur Ali**
 ---
 
 Made with Bytedance 🐬 Dolphin Image Parser  
-🔗 [GitHub Repo](https://github.com/bytedance/Dolphin) | © 2025  
+🔗 [GitHub Repo](https://github.com/bytedance/Dolphin) 
 Author: Md Monsur Ali | [Website](https://inventaai.com/) | [LinkedIn](https://www.linkedin.com/company/inventaai/) | [GitHub](https://github.com/mdmonsurali) | © 2025
