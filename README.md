@@ -4,8 +4,8 @@ A powerful and intuitive Streamlit app that leverages [ByteDance's Dolphin](http
 
 ---
 
-![Streamlit App Screenshot](images/streamlit-1.jpg)
-[Watch Dolphin OCR Demo Video](images/Dolphin%20OCR.mp4)
+![Streamlit App Screenshot](Demo UI/Streamlit UI -1.jpg)
+[Watch Dolphin OCR Demo Video](Demo UI/Dolphin%20OCR.mp4)
 
 
 ## ✨ Features
