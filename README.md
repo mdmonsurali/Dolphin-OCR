@@ -7,6 +7,10 @@ A powerful and intuitive Streamlit app that leverages [ByteDance's Dolphin](http
 
 [Watch Dolphin OCR Demo Video](Demo%20UI/Dolphin_OCR.mp4)
 
+## 🎥 Dolphin OCR Demo Video
+
+[📂 Click to Watch Dolphin_OCR.mp4](Demo%20UI/Dolphin_OCR.mp4)
+
 ---
 
 ## Demo UI Screenshot
