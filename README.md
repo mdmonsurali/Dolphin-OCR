@@ -3,11 +3,16 @@
 A powerful and intuitive Streamlit app that leverages [ByteDance's Dolphin](https://github.com/bytedance/Dolphin) model to extract structured **Markdown**, **JSON**, and **DOCX** content from images and PDFs files.
 
 ---
+## Demo OCR Video
+
+[Watch Dolphin OCR Demo Video](Demo%20UI/Dolphin%20OCR.mp4)
+
+---
+
+## Demo UI Screenshot
 
 ![Demo UI Screenshot](Demo%20UI/Streamlit%20UI%20-1.jpg)
 
-
-[Watch Dolphin OCR Demo Video](Demo UI/Dolphin%20OCR.mp4)
 
 
 ## ✨ Features
