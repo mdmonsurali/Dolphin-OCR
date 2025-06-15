@@ -14,6 +14,9 @@ https://github.com/user-attachments/assets/a7de586b-38ba-4cb3-88dd-908e82ac84f3
 
 ![Demo UI Screenshot](Demo%20UI/Streamlit%20UI%20-1.jpg)
 
+Structured Table and Formula
+![Demo UI Screenshot](Demo%20UI/Streamlit%20UI%20-3.jpg)
+
 Download Markdown, JSON & DOCX format Files
 ![Demo UI Screenshot](Demo%20UI/Streamlit%20UI%20-4.jpg)
 
